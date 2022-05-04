@@ -1,2 +1,2 @@
 # RL2019
-RL course in Aalto University
+RL course in Aa*** University
